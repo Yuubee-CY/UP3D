@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186.926" height="148.197" viewBox="0 0 186.926 148.197">
+    <line id="直线_34" data-name="直线 34" x2="13" transform="translate(90 18)" fill="none" stroke="#febb6f"
+          stroke-width="1.6"/>
+    <g id="组_151" data-name="组 151" transform="translate(1 )">
+        <g id="组_150" data-name="组 150" transform="translate(21.558 12.509)">
+            <path id="路径_98" data-name="路径 98"
+                  d="M377.737,671.663l25.907,27.081s44.1-42.234,42.722-98.215l-37.777,2.981S414.9,633.491,377.737,671.663Z"
+                  transform="translate(-377.737 -598.889)" fill="none" stroke="#febb6f" stroke-miterlimit="10"
+                  stroke-width="1.6"/>
+            <path id="路径_99" data-name="路径 99"
+                  d="M378.506,670.082s14.631-.465,26.983-27.99,2.446-39.954,2.446-39.954"
+                  transform="translate(-377.082 -597.518)" fill="none" stroke="#febb6f" stroke-miterlimit="10"
+                  stroke-width="1.6"/>
+            <path id="路径_100" data-name="路径 100"
+                  d="M391.729,699.5s17.327-34.355,22.528-45.579,20.16-52.433,20.16-52.433H446.55"
+                  transform="translate(-365.822 -599.643)" fill="none" stroke="#febb6f" stroke-miterlimit="10"
+                  stroke-width="1.6"/>
+        </g>
+        <rect id="矩形_302" data-name="矩形 302" width="65.421" height="102.761" transform="translate(102.143 0)"
+              fill="none" stroke="#969696" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="矩形_303" data-name="矩形 303" width="99.058" height="23.607"
+              transform="translate(86.868 102.761)" fill="none" stroke="#969696" stroke-miterlimit="10"
+              stroke-width="1"/>
+        <rect id="矩形_304" data-name="矩形 304" width="185.926" height="10.029" transform="translate(0 126.368)"
+              fill="none" stroke="#969696" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+</svg>

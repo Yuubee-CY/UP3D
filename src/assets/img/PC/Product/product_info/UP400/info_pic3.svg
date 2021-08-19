@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148.491" height="148.491" viewBox="0 0 148.491 148.491">
+    <g id="组_154" data-name="组 154" transform="translate(0.5 0.5)">
+        <ellipse id="椭圆_37" data-name="椭圆 37" cx="73.745" cy="73.745" rx="73.745" ry="73.745" transform="translate(0 0)"
+                 fill="none" stroke="#969696" stroke-miterlimit="10" stroke-width="1"/>
+        <g id="组_153" data-name="组 153" transform="translate(21.304 26.619)">
+            <path id="路径_101" data-name="路径 101"
+                  d="M614.43,605.936v66.031a5.452,5.452,0,0,1-5.453,5.453h-23.15a5.446,5.446,0,0,1-5.453-5.531c.267-16.275,3.118-63.345,26.942-71.155A5.45,5.45,0,0,1,614.43,605.936Z"
+                  transform="translate(-580.374 -600.464)" fill="none" stroke="#febb6f" stroke-miterlimit="10"
+                  stroke-width="1.6"/>
+            <path id="路径_102" data-name="路径 102"
+                  d="M619.405,605.936v66.031a5.452,5.452,0,0,0,5.453,5.453h23.15a5.446,5.446,0,0,0,5.453-5.531c-.266-16.275-3.118-63.345-26.942-71.155A5.45,5.45,0,0,0,619.405,605.936Z"
+                  transform="translate(-547.137 -600.464)" fill="none" stroke="#febb6f" stroke-miterlimit="10"
+                  stroke-width="1.6"/>
+            <rect id="矩形_305" data-name="矩形 305" width="17.895" height="17.895" rx="1.255"
+                  transform="translate(44.329 33.767)" fill="none" stroke="#febb6f" stroke-miterlimit="10"
+                  stroke-width="1.6"/>
+            <path id="路径_103" data-name="路径 103"
+                  d="M614.43,605.936v66.031a5.452,5.452,0,0,1-5.453,5.453h-23.15a5.446,5.446,0,0,1-5.453-5.531c.267-16.275,3.118-63.345,26.942-71.155A5.45,5.45,0,0,1,614.43,605.936Z"
+                  transform="translate(-580.374 -600.464)" fill="none" stroke="#febb6f" stroke-miterlimit="10"
+                  stroke-width="1.6"/>
+        </g>
+    </g>
+</svg>

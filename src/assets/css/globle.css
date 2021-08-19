@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Montserrat;
+    src: /* url("../font/Montserrat-Regular.ttf"); */ url("../font/Montserrat-Light.otf");
+    /* url("../font/Montserrat\ Semi\ Bold.otf"),
+    url("../font/Montserrat\ Extra\ Bold.otf") ,
+    url("../font/Montserrat-Hairline.otf") ,
+    url("../font/Montserrat-Black.otf"),
+    url("../font/Montserrat-Bold.otf"); */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: MontserratBold;
+    src: /* url("../font/Montserrat-Regular.ttf"); */ /* url("../font/Montserrat-Light.otf"); */ /* url("../font/Montserrat\ Semi\ Bold.otf"),
+          url("../font/Montserrat\ Extra\ Bold.otf") ,
+          url("../font/Montserrat-Hairline.otf") ,
+          url("../font/Montserrat-Black.otf"), */ url("../font/Montserrat-Bold.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: SourceHanSansCN;
+    src: url("../font/SourceHanSansCN-Light.ttf");
+    /*src: url("../font/SourceHanSansCN-Light.otf");*/
+    /* url("../font/SourceHanSansCN--Bold.otf"); */
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    /* font-family: Montserrat  !important;  */
+}
+
+a {
+    /*text-decoration:  none;*/
+    text-decoration: none !important
+}
+
+body {
+    width: 10rem;
+    height: 100%;
+    /* border : solid .015625rem blue; */
+    margin: auto;
+    overflow-x: hidden;
+    /* overflow: hidden;*/
+    /* background-color: aqua; */
+    /* font-family: Montserrat  !important;  */
+
+}
+
+li {
+    list-style: none;
+}
