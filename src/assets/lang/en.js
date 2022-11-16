@@ -90,8 +90,8 @@ module.exports = {
           list: [
             {name: 'EN', url: ''},
             {name: '中文', url: ''},
-            {name: 'ES', url: 'http://new.up3d.cn/ES/Index.html'},
-            {name: 'RU', url: 'http://new.up3d.cn/RU/Index.html'},
+            // {name: 'ES', url: 'http://new.up3d.cn/ES/Index.html'},
+            // {name: 'RU', url: 'http://new.up3d.cn/RU/Index.html'},
           ],
           url: ''
         },
