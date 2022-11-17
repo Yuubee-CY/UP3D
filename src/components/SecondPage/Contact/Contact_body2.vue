@@ -218,6 +218,7 @@ export default {
   cursor: pointer;
   display: flex;
   align-items: center;
+  position: relative;
 }
 
 .Contact_body2 .text .list .QR-code {
@@ -226,18 +227,17 @@ export default {
   box-sizing: border-box;
   padding: 0.01631rem;
   width: 3.38164rem;
-  /*height: 0.96618rem;*/
   height: auto;
-  top: 0.07246rem;
+  top: calc(100% + 5PX);
   left: 0;
-  position: relative;
-  display: none;
-  transition: all .5s;
+  position: absolute;
+  opacity: 0;
+  transition: all .35s;
 }
 
 .Contact_body2 .text .list .wx-query:hover .QR-code {
   display: block;
-  transition: all .5s;
+  opacity: 1;
 }
 
 .Contact_body2 .text .list .QR-code:before {
